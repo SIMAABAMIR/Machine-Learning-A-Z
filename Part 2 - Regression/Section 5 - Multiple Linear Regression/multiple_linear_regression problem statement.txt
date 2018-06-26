@@ -1,0 +1,40 @@
+This is going to be a vent capitalist fund challenge.
+We've got 5 columns
+
+very realistis business life like challenge
+
+50 companies in total.
+Some extracts of profits and loss statements from their income report.
+
+How much did the company in the financial year did it spent on R&D, Administration(paying employees), Marketing : three major operational spends and whihch state it works in and Finally what 
+was the profit of the company for that financial year.
+
+The challenge : This is a anonymysed dataset (Dont know company name).
+
+Ther's a vent capitalist fund that has hired you as a Data Scientist to analyze this dataset of company and create a model that
+will tell the vent capitalist fund which types of companies it is most interested in investing.
+And their main criteria is 'Profit"
+
+So you have to create a model which will predict Profit based on R&D Spend spend, Administration spend, MArketing spend, and state.
+
+This is a sample and they are looking for / they want to understand where company performed better in New York or in California.
+all others thing held equal.
+
+
+Or which company performed better if you hold state columns equal , will the company spending more on Marketin performs better or a company less on marketing.
+Also the main thing probably they want to understand : how do they assess company 
+do the company spend more on R&D or  the company spending more on Marketing
+
+So which of these 2 spend yields better result of profit
+
+And based on my model that I created , they will setup guidelines for their own vent capitalist fund .
+Ok so we are more interested in company that work in new york and that have a very low Administration spend
+and a very high R&D spend .
+
+Helping them creating a model based of this sample, that will allow them to assess where and in which 
+company they should invest for their goal of maximizing profit 
+
+The vent capitalist fund wants to see whether if ther's any correlation exist between Profit
+and the amount that have been spent on R&D, Admin,MArketing and also in which state the company operates.
+
+Is there any correlation and how would you go about creating a model to understand how to know Amount spent on R&D , Marketing,Admin affect Profit
