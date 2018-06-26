@@ -1,0 +1,20 @@
+we are HR team working for a big company and we are about to hire new employee in this company.
+so this new empl seems to be great, good fit for the job and we are about to make an offer to this potential new employee
+nad now it's time to negotiate on what's going to be the salary of this new future employee.
+
+At the begining of the negotiatian, he is telling that he had 20+ yr of exp and was earning 160K+ salary in his prev company, so he's asking 
+for atleastmore than 160K.
+
+However ther's somone in the control in the HR team and always try to be detective and certainly decides to previous employer to check the info
+But unfortunaley all the info the senior HR got is the dataset of 10 different positions in the company.
+
+So this HR member runs a simple analysis on excel or google sheet and observes a non-linear relation b/w position and salary.
+
+However this HR perdon could get an another very related info.
+
+One info that he was working as Region manager for 2yr &it takes 4yr for promotion
+
+Build a bluffing detector using regression model(Polynomial) and predict if this new emoloyee is bluffing abot his salary.
+
+
+
